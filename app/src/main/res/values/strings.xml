@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Clydesdale Directory</string>
+
+    <string name="tabs_people">People</string>
+    <string name="tabs_rooms">Rooms</string>
+
+    <string name="description_people_list">People list</string>
+    <string name="description_room_list">Room list</string>
+    <string name="description_avatar">Avatar of the user</string>
+    <string name="description_favourite_color">Favourite color</string>
+    <string name="description_email">Email</string>
+    <string name="description_phone">Phone</string>
+
+    <string name="person_full_name">%1$s %2$s</string>
+
+    <string name="room_taken">Taken</string>
+    <string name="room_free">Book</string>
+
+    <string name="person_name">Name</string>
+    <string name="person_surname">Surname</string>
+    <string name="person_id">Id</string>
+    <string name="person_job">Job</string>
+    <string name="person_email">Email</string>
+    <string name="person_phone">Phone</string>
+    <string name="person_fav_color">Fav color</string>
+
+</resources>
