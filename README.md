@@ -2,7 +2,7 @@
 
 This app displays staff and rooms. The employees are sorted alphabetically and if tapped, it opens a detailed page. I pretended not all the data was accessible and I needed another call to download the extra data.
 
-![People](images/people.png)![People](images/rooms.png) ![People](images/person.png) 
+![People](images/people.png)  ![People](images/rooms.png)  ![People](images/person.png) 
 
 ![People](images/person_land.png)
 
